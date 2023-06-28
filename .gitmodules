@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "JATSdecoder"]
 	path = JATSdecoder
 	url = https://github.com/ingmarboeschen/jatsdecoder
-	shallow = true
-	registered = true
